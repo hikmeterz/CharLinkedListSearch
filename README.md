@@ -1,4 +1,4 @@
-﻿# CharLinkedListSearch
+
 # Char Linked List Search
 
 ## Project Description
